@@ -23,6 +23,12 @@
 
 - Nunjucks Template
 
+<h2 align="center">🔥 Sobre a aplicação:</h2>
+
+![capaa](https://user-images.githubusercontent.com/62181023/84090747-f78d3000-a9c8-11ea-9917-20041565568d.png)
+
+<h4 align="center">Nela podemos cadastrar pontos de coleta, buscar pontos de coleta mais próximos de você, utilização da API do IBGE para conseguir obter os estados e municípios do Brasil, telas de sucesso ou eroo ao conseguir ou não cadastrar o ponto de coleta, design responsivo.</h4>
+
 <h1 align="center">Desenvolvido durante a Next Level Week #1 - Starter da Rocketseat. 🚀</h1>
 
 <h2>📱 Minhas redes sociais:</h2>
