@@ -1,5 +1,3 @@
-# NLW-1-Starter
-
 <p align="center">
   <img src="./public/assets/logo.svg" alt="Logo do Ecoleta"/>
 </p>
